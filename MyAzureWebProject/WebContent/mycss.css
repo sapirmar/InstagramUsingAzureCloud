@@ -1,0 +1,25 @@
+@charset "windows-1255";
+
+body{
+	font-size-adjust: inherit;
+	font-style: italic;
+	background-image: url("images/background.jpg");
+	background-image
+	height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+font-family: cursive;
+	font-style: italic;
+	font-variant: inherit;
+	font-size-adjust: inherit;
+
+    
+}
+
+table{
+	border: medium;
+	color: black;
+}
